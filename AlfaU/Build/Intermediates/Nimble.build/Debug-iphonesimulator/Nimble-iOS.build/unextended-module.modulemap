@@ -1,0 +1,6 @@
+framework module Nimble {
+  umbrella header "Nimble.h"
+
+  export *
+  module * { export * }
+}

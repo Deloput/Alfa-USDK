@@ -1,0 +1,6 @@
+framework module AlfaU {
+  umbrella header "AlfaU.h"
+
+  export *
+  module * { export * }
+}

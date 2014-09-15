@@ -1,0 +1,1 @@
+ const unsigned char Nimble_OSXTestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Nimble-OSXTests  PROJECT:Nimble-1" "\n"; const double Nimble_OSXTestsVersionNumber __attribute__ ((used)) = (double)1.;

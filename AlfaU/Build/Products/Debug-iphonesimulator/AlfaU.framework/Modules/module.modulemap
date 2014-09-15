@@ -1,0 +1,10 @@
+framework module AlfaU {
+  umbrella header "AlfaU.h"
+
+  export *
+  module * { export * }
+}
+
+module AlfaU.Swift {
+    header "AlfaU-Swift.h"
+}
